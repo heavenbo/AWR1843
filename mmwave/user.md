@@ -26,6 +26,7 @@
 | mmWave SDK | 3.6.x | 官方 SDK |
 | mmWave Demo Visualizer | 3.6.0 | 雷达数据显示工具 |
 | UniFlash | 最新版本 | 固件烧录工具 |
+| 串口调试助手 | 点击下载：[串口调试助手.exe](./串口调试助手.exe) | 串口调试 |
 
 ## 2.1 安装 Code Composer Studio (CCS)
 
