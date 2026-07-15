@@ -77,10 +77,10 @@ D:\ti\ccs1230\workspace\Out_of_box_learn
 编译成功后将在：
 
 ```text
-Debug/
+out_of_box_1843_mss\isk
 ```
 
-目录生成对应的可执行文件及 bin 文件。
+目录生成对应的可执行文件及 bin 文件。一般名称是`out_of_box_1843_isk.bin`
 
 ---
 
@@ -90,15 +90,7 @@ Debug/
 
 在烧录前，需要将 AWR1843 单板切换至 **Functional Mode**。
 
-> **此处插入单板拨码开关（SOP）配置图片，并说明各拨码开关位置。**
-
-例如：
-
-- SOP2 = OFF
-- SOP1 = ON
-- SOP0 = ON
-
-（请根据实际单板型号填写。）
+<div align=center><img src="../photo/Function_mod.jpg" height="300px"></img></div>  
 
 完成设置后，重新上电。
 
