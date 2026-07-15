@@ -33,12 +33,12 @@ toolbox的网址打开后如下图进行下载：
 
 # 3. 获取 Out of Box (OOB) 工程
 
-安装 mmWave SDK 后，官方 Out of Box Demo 已包含在 SDK 中。
+安装 toolbox 后，官方 Out of Box Demo 已包含在 SDK 中。建议新建一个`ti`的文件夹，将toolbox的文件夹解压在那里。
 
 默认路径如下（根据实际安装路径修改）：
 
 ```text
-<mmwave_sdk>\packages\ti\demo\xwr18xx\mmw
+radar_toolbox_4_00_00_05\source\ti\examples\Out_Of_Box_Demo\src\xwr1843
 ```
 
 其中主要工程包括：
