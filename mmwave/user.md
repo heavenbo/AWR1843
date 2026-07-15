@@ -98,25 +98,16 @@ out_of_box_1843_mss\isk
 
 ## 5.2 打开 UniFlash
 
-启动 UniFlash。
+- 连接设备 启动 UniFlash。选择 AWR1843BOOST
+- 选择串口 在`Setting & Utilities`中将COM Port改为User UART的串口号，如下所示
+<div align=center><img src="../photo/port.png" height="300px"></img></div>  
 
-新建工程：
-
-- Device：AWR1843
-
-连接设备后分别添加：
-
-- MSS bin
-- DSS bin
-
-配置完成后点击 **Load Image** 开始烧录。
-
-烧录成功后会显示：
+- 烧录程序 在`Program`中，点击第一个Browse添加`out_of_box_1843_isk.bin`
+- 烧录 配置完成后点击 **Load Image** 开始烧录。烧录成功后会显示：
 
 ```text
 Program Load Success
 ```
-
 ---
 
 # 6. 使用 mmWave Demo Visualizer
