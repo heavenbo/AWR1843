@@ -57,15 +57,19 @@ radar_toolbox_4_00_00_05\source\ti\examples\Out_Of_Box_Demo\src\xwr1843
 ```text
 D:\ti\ccs1230\workspace\Out_of_box_learn
 ```
-打开 CCS：
 
-File → Import → CCS Projects
-
-选择：
-
-```text
+- 选择Workspace
+  打开 CCS：`File → Switch → Others`，选择刚刚创建的文件夹。
+- 进行编译
+  `File → Import → Code Composer Studio →CCS Projects`，选择
+  ```text
 <mmwave_sdk>\packages\ti\demo\xwr18xx\mmw
 ```
+
+
+
+
+
 
 导入完成后可看到：
 
