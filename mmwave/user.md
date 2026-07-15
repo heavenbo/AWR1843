@@ -20,52 +20,13 @@
 
 本教程使用的软件版本如下：
 
-| 软件 | 版本 | 说明 |
+| 软件 | 版本 | 说明 | 下载链接 |
 |------|------|------|
-| Code Composer Studio | 推荐与 mmWave SDK 配套版本 | 工程开发与编译 |
-| mmWave SDK | 3.6.x | 官方 SDK |
-| mmWave Demo Visualizer | 3.6.0 | 雷达数据显示工具 |
-| UniFlash | 最新版本 | 固件烧录工具 |
+| Code Composer Studio | 12.3.0 | 工程开发与编译 | [安装地址](https://www.ti.com/tool/download/CCSTUDIO/12.3.0) |
+| mmWave SDK | 3.6.x | 官方 SDK |  |
+| mmWave Demo Visualizer | 3.6.0 | 雷达数据显示工具 | [安装地址](https://dev.ti.com/gallery/info/mmwave/mmWave_Demo_Visualizer//) |
+| UniFlash | 9.4.0 | 固件烧录工具 | [安装地址](https://www.ti.com/tool/download/UNIFLASH/9.4.0) |
 | 串口调试助手 | 点击下载：[串口调试助手.exe](./串口调试助手.exe) | 串口调试 |
-
-## 2.1 安装 Code Composer Studio (CCS)
-
-下载地址：
-
-- TI 官网 CCS 下载页面：
-  - :contentReference[oaicite:0]{index=0}
-
-安装过程中保持默认配置即可。
-
-安装完成后，建议首次启动 CCS，确认能够正常运行。
-
----
-
-## 2.2 安装 mmWave Demo Visualizer 3.6.0
-
-在线版本：
-
-- https://dev.ti.com/gallery/
-
-离线安装包可在 TI Gallery 下载：
-
-- :contentReference[oaicite:1]{index=1}
-
-建议安装 **3.6.0** 版本。
-
-安装完成后无需立即连接雷达。
-
----
-
-## 2.3 安装 UniFlash
-
-下载地址：
-
-- https://www.ti.com/tool/UNIFLASH
-
-按照默认配置完成安装即可。
-
----
 
 # 3. 获取 Out of Box (OOB) 工程
 
