@@ -35,7 +35,7 @@ toolbox的网址打开后如下图进行下载：
 
 安装 toolbox 后，官方 Out of Box Demo 已包含在 SDK 中。建议新建一个`ti`的文件夹，将toolbox的文件夹解压在那里。
 
-默认路径如下（根据实际安装路径修改）：
+out_of_box默认路径如下（根据实际安装路径修改）：
 
 ```text
 radar_toolbox_4_00_00_05\source\ti\examples\Out_Of_Box_Demo\src\xwr1843
@@ -61,21 +61,9 @@ D:\ti\ccs1230\workspace\Out_of_box_learn
 - 选择Workspace
   打开 CCS：`File → Switch → Others`，选择刚刚创建的文件夹。
 - 进行编译
-  `File → Import → Code Composer Studio →CCS Projects`，选择
+  `File → Import → Code Composer Studio →CCS Projects`，选择刚刚得到的out_of_box的文件夹路径
 
-```text
-<mmwave_sdk>\packages\ti\demo\xwr18xx\mmw
-```
-
-
-
-
-
-
-导入完成后可看到：
-
-- xwr18xx_mmw_demo_mss
-- xwr18xx_mmw_demo_dss
+  导入之后选择mss即可，之后会发现`Project Explorer`中有：` xwr18xx_mmw_demo_mss`和`xwr18xx_mmw_demo_dss`
 
 ---
 
