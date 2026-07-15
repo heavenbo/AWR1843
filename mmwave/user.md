@@ -53,7 +53,10 @@ radar_toolbox_4_00_00_05\source\ti\examples\Out_Of_Box_Demo\src\xwr1843
 # 4. 编译官方 Demo
 
 ## 4.1 导入工程
-
+在导入工程前在CCS的目录下创建一个`workspace`文件夹,里面再创建一个`Out_of_box_learn`，文件路径如下
+```text
+D:\ti\ccs1230\workspace\Out_of_box_learn
+```
 打开 CCS：
 
 File → Import → CCS Projects
