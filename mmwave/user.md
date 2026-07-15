@@ -62,7 +62,8 @@ D:\ti\ccs1230\workspace\Out_of_box_learn
   打开 CCS：`File → Switch → Others`，选择刚刚创建的文件夹。
 - 进行编译
   `File → Import → Code Composer Studio →CCS Projects`，选择
-  ```text
+
+```text
 <mmwave_sdk>\packages\ti\demo\xwr18xx\mmw
 ```
 
