@@ -88,7 +88,7 @@ out_of_box_1843_mss\isk
 
 ## 5.1 设置雷达启动模式
 
-在烧录前，需要将 AWR1843 单板切换至 **Functional Mode**。
+在烧录前断电，需要将 AWR1843 单板切换至 烧录模式。
 
 <div align=center><img src="../photo/Function_mod.jpg" height="300px"></img></div>  
 
@@ -106,7 +106,7 @@ out_of_box_1843_mss\isk
 - 烧录 配置完成后点击 **Load Image** 开始烧录。烧录成功后会显示：
 
 ```text
-Program Load Success
+[SUCCESS] Program Load completed successfully.
 ```
 ---
 
@@ -114,9 +114,9 @@ Program Load Success
 
 ## 6.1 切换运行模式
 
-烧录完成后，将雷达切换至 **Functional Mode**。
+烧录完成后断电，将雷达切换至 工作模式。
 
-> **此处插入 SOP 拨码开关图片，并说明运行模式配置。**
+<div align=center><img src="../photo/normal.jpg" height="300px"></img></div>  
 
 重新上电。
 
