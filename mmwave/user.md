@@ -69,7 +69,7 @@ D:\ti\ccs1230\workspace\Out_of_box_learn
 
 ## 4.2 编译工程
 
-依次编译：
+之后右键对应的项目，选择`Build Projecrt`，依次编译：
 
 1. DSS 工程
 2. MSS 工程
