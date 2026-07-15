@@ -21,7 +21,7 @@
 本教程使用的软件版本如下：
 
 | 软件 | 版本 | 说明 | 下载链接 |
-|------|------|------|
+|------|------|------|------|
 | Code Composer Studio | 12.3.0 | 工程开发与编译 | [安装地址](https://www.ti.com/tool/download/CCSTUDIO/12.3.0) |
 | mmWave SDK | 3.6.x | 官方 SDK |  |
 | mmWave Demo Visualizer | 3.6.0 | 雷达数据显示工具 | [安装地址](https://dev.ti.com/gallery/info/mmwave/mmWave_Demo_Visualizer//) |
