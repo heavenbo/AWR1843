@@ -7,9 +7,6 @@
 本文主要包括以下内容：
 
 - 安装开发环境
-  - Code Composer Studio (CCS)
-  - mmWave Demo Visualizer 3.6.0
-  - UniFlash
 - 获取官方 Out of Box (OOB) 工程
 - 编译官方 Demo 工程
 - 使用 UniFlash 烧录程序到 AWR1843
