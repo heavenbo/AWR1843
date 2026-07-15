@@ -128,48 +128,21 @@ out_of_box_1843_mss\isk
 
 选择：
 
-- Platform：AWR1843
-- Demo：Out of Box Demo
+- Platform：xWR18xx
+- 点击`Options`配置串口，打开设备管理即可找到对应的串口号，波特率使用默认推荐，设置正确后点击 **OK**。
 
 ---
 
-## 6.3 配置串口
+## 6.3 运行雷达
 
-连接两个串口：
-
-- CLI Port
-- Data Port
-
-设置正确的波特率后点击 **Connect**。
+点击`SEND CONFIG TO MMWAVE DEVICE`，雷达开始工作。
 
 ---
 
-## 6.4 加载配置文件
+## 6.4 查看数据
 
-加载 SDK 中提供的配置文件，例如：
+运行成功后，可在 `Plots` 中查看对应数据，如图：
 
-```text
-profiles\profile_2d.cfg
-```
-
-点击：
-
-```text
-Send Config
-```
-
-雷达开始工作。
-
----
-
-## 6.5 查看数据
-
-运行成功后，可在 Demo Visualizer 中查看：
-
-- Point Cloud
-- Range Profile
-- Range-Doppler Heatmap
-- Statistics
-- Detected Objects
+<div align=center><img src="../photo/Sucess_result.png" height="300px"></img></div>  
 
 至此，官方 Out of Box Demo 已成功运行。
