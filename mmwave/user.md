@@ -23,7 +23,8 @@
 | 软件 | 版本 | 说明 | 下载链接 |
 |------|------|------|------|
 | Code Composer Studio | 12.3.0 | 工程开发与编译 | [安装地址](https://www.ti.com/tool/download/CCSTUDIO/12.3.0) |
-| mmWave toolbox | 4.00.00.05 | 官方 SDK | [安装地址](https://dev.ti.com/tirex/explore/node?isTheia=false&node=A__AEIJm0rwIeU.2P1OBWwlaA__radar_toolbox__1AslXXD__LATEST) |
+|mmwave sdk| 03.06.00.00-LTS | 官方sdk |[安装地址](https://www.ti.com/tool/download/MMWAVE-SDK/03.06.00.00-LTS)|
+| mmWave toolbox | 4.00.00.05 | 对应的demo | [安装地址](https://dev.ti.com/tirex/explore/node?isTheia=false&node=A__AEIJm0rwIeU.2P1OBWwlaA__radar_toolbox__1AslXXD__LATEST) |
 | mmWave Demo Visualizer | 3.6.0 | 雷达数据显示工具 | [安装地址](https://dev.ti.com/gallery/info/mmwave/mmWave_Demo_Visualizer//) |
 | UniFlash | 9.4.0 | 固件烧录工具 | [安装地址](https://www.ti.com/tool/download/UNIFLASH/9.4.0) |
 | 串口调试助手 | 无版本 | 串口调试，已有类似软件则不必下 |[点击下载](./串口调试助手.exe)|
