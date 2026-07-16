@@ -20,6 +20,14 @@
   点击`工具->插件->设置->Install Plugin From File`，选择下好的插件文件即可,后缀名为.xpi。
 
 - 文献导入与管理
+  
   1.批量导入
+  
     Zotero配置好后，可以通过拖拽实现文件的批量导入。
-  2. 
+  
+  2. 文献分类
+     Zotoro支持新建分类，已导入的文献会在设置的数据储存位置，因此导入后下载的文献可以删除了
+
+  3. 标签管理
+     Ethereal Style支持对文献进行打标签管理，只需要在右侧标签处添加`#GMTI`、`多阶近似`等标签，然后如下图选择标题栏即可实现标签管理
+<div align=center><img src="./photo/Zotero.png" width="600px"></img></div>  
