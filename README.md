@@ -12,4 +12,4 @@
 | ZotCard | 卡片式阅读与笔记插件，优化阅读及卡片记录体验。 | [下载](https://github.com/018/zotcard) |
 
 下载方式为：点击对应github页面的release进入，如下所示
-
+<div align=center><img src="./photo/github_release.png" width="600px"></img></div>  
