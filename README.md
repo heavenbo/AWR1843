@@ -1,5 +1,5 @@
 # Zotero
-这款软件非常适合阅读英文文献，也适合阅读英文技术手册，包括ti的user_guide.pdf，安装地址为：[zotero下载](https://www.zotero.org/).
+这款软件非常适合阅读英文文献，也适合阅读英文技术手册，包括ti的user_guide.pdf，安装地址为：[zotero下载](https://www.zotero.org/). 只能安装到C区，但建议将数据储存设置放到其他盘，这个可以在`编辑->设置->高级->数据储存设置`中修改，例如`D:\Zotero`。
 
 - 插件下载
 
@@ -13,3 +13,13 @@
 
 下载方式为：点击对应github页面的release进入，如下所示
 <div align=center><img src="./photo/github_release.png" width="600px"></img></div>  
+
+进去后选择最新版本的Assets中的后缀为.xpi的进行下载。
+
+- 插件安装
+  点击`工具->插件->设置->Install Plugin From File`，选择下好的插件文件即可,后缀名为.xpi。
+
+- 文献导入与管理
+  1.批量导入
+    Zotero配置好后，可以通过拖拽实现文件的批量导入。
+  2. 
